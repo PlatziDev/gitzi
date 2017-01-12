@@ -1,0 +1,20 @@
+hash: 1c4f71842a419d1a5a4b7ee4b3b690e13bd6ac28c8916a331585941f7fe64bf1
+updated: 2017-01-11T19:08:18.443717961-05:00
+imports:
+- name: github.com/google/go-github
+  version: dcda0b96bd591fbeb40dcaddec3fb40a7fcaca34
+  subpackages:
+  - github
+- name: github.com/google/go-querystring
+  version: 9235644dd9e52eeae6fa48efd539fdc351a0af53
+  subpackages:
+  - query
+- name: github.com/nlopes/slack
+  version: e595e9d8590a04ff76407e4e7d1791d25b095c66
+- name: golang.org/x/net
+  version: 60c41d1de8da134c05b7b40154a9a82bf5b7edb9
+  subpackages:
+  - websocket
+- name: gopkg.in/yaml.v2
+  version: a5b47d31c556af34a302ce5d659e6fea44d90de0
+testImports: []
